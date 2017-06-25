@@ -1,6 +1,6 @@
 # Presentations
 
-An application architecture for React
+Creating Beautiful Presentations using Open Source Tools
 
 ---
 
