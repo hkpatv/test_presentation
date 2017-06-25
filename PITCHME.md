@@ -1,4 +1,4 @@
-# Flux 
+# Presentations
 
 An application architecture for React
 
